@@ -1,0 +1,1 @@
+import pinecone from langchain.vectorstores import pinecone
